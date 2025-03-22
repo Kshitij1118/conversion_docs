@@ -23,6 +23,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/CollaborativeRoom.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/CollaborativeRoom.tsx", "postcss.config.mjs", "tailwind.config.ts", "next.config.ts"],
   "exclude": ["node_modules"]
 }
